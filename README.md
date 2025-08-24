@@ -7,5 +7,5 @@ https://qom-templates.vercel.app/
 
 | Website Name      | URL                             | Notes                      |  Status                  |
 |-------------------|---------------------------------|----------------------------|--------------------------|
-| Runner360             | https://lear | Desktop only, not responsive |
-| https://oauife.edu.ng/           | Desktop clone with slider  |
+| Runner360[https://qom-templates.vercel.app/runner360/]                       | https://lear | Desktop only, not responsive |
+| https://oauife.edu.ng/                     | Desktop clone with slider  |

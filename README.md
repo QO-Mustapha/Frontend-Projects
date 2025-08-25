@@ -33,6 +33,6 @@ A collection of frontend websites developed using **HTML, CSS, and JavaScript**.
 
 | Project   | Status | Tech Stack         | Live Demo | Repository | Last Updated | Notes              |
 |-----------|--------|-------------------|-----------|------------|--------------|--------------------|
-| Runner360 | 🟢  Comp | HTML, CSS, JS     | [Live](https://qom-templates.vercel.app/runner360/) | [Repo](https://github.com/QO-Mustapha/Frontend-Projects/runner360) | Aug 2025 | Initial build |
+| Runner360 | 🟢  Comp | HTML, CSS, JS     | [Live](https://qom-templates.vercel.app/runner360/) | [Repo dir](https://github.com/QO-Mustapha/Frontend-Projects/tree/main/runner360) | Aug 2025 | Initial build |
 
 ---

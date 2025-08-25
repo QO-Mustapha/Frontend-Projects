@@ -7,7 +7,7 @@ A collection of frontend websites developed using **HTML, CSS, and JavaScript**.
 ## 📌 Projects Included
 
 ### 1. 🏃 Runner360
-  - **Code/Status:** 🔴 In Development  
+  - **Code/Status:** 🟢  Completed
   - **Tech Stack:** HTML, CSS, JavaScript  
   - **Description:** A fully responsive and optimized *home page* of an athlete coaching website.  
   - **Features:**
@@ -17,7 +17,7 @@ A collection of frontend websites developed using **HTML, CSS, and JavaScript**.
   - **Live Demo:** [Runner360](https://qom-templates.vercel.app/runner360/)  
   - **Repository:** [GitHub Repo](https://github.com/QO-Mustapha/Frontend-Projects/runner360)  
   - **Last Updated:** Aug 2025  
-  - **Note:** Initial build in progress
+  - **Note:** Initial build completed.
 ---
 
 ## 🗂️ Project Status Legend
